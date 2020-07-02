@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">HireDevelopers</string>
     <string name="title_home">Home</string>
+    <string name="title_name">HIRE DEVELOPERS</string>
     <string name="title_browse">Browse</string>
     <string name="title_profile">Profile</string>
     <string name="title_notifications">Notification</string>
