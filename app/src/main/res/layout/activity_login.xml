@@ -11,7 +11,7 @@
         android:layout_width="300dp"
         android:layout_height="100dp"
         android:id="@+id/login_app_logo"
-        android:src="@drawable/trailLogo"
+        android:src="@drawable/triallogo"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"/>
 

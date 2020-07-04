@@ -37,10 +37,10 @@
         android:layout_marginTop="12dp"/>
 
     <androidx.recyclerview.widget.RecyclerView
+        style="@style/marginleftright"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="@style/marginleftright"
-        android:layout_marginTop="6dp"/>
+        android:layout_marginTop="6dp" />
 
     <TextView
         android:layout_width="match_parent"
